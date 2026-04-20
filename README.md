@@ -37,7 +37,10 @@ The dataset includes:
 ### 3. Data Visualization
 - Plotted Income vs Spending Score to observe patterns  
 
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot]
+
+<img width="562" height="455" alt="scatter_plot" src="https://github.com/user-attachments/assets/bfe8fe7f-a230-48c1-9df7-ceddb5f5aa6b" />
+
 
 ---
 
@@ -45,7 +48,10 @@ The dataset includes:
 - Used WCSS to find optimal clusters  
 - Found optimal K = 4  
 
-![Elbow Method](images/elbow_method.png)
+![Elbow Method]
+
+<img width="567" height="455" alt="elbow_method" src="https://github.com/user-attachments/assets/cc4c266b-7ffe-4afa-94f1-53d8ab1f8878" />
+
 
 ---
 
@@ -53,7 +59,10 @@ The dataset includes:
 - Applied K-Means algorithm  
 - Segmented customers into 4 groups  
 
-![Clusters](images/clusters.png)
+![Clusters]
+
+<img width="686" height="547" alt="clusters" src="https://github.com/user-attachments/assets/c1724cca-2103-4b8f-a447-cab1d8526ed7" />
+
 
 ---
 
